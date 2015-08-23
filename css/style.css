@@ -1,0 +1,27 @@
+.mid-row {
+  margin-top: 150px;
+  margin-left: 650px;
+}
+
+#logo img {
+  width:269px ; height:95px ;
+  margin-left: 150px;
+}
+
+#searchbar {
+  margin-top: 25px;
+}
+
+#searchbar form input {
+  width: 569px;
+}
+#buttons {
+  margin-top: 15px;
+  margin-left: 175px;
+}
+
+#txt {
+  margin-top: 60px;
+  margin-left: 200px;
+  font-size: 14px;
+}
