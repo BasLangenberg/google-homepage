@@ -4,10 +4,10 @@
   font-size: 8px;
 }
 
-.top-row{
-  display: absolute;
-  width: 100%;
+.top-row {
   height: 20px;
+  margin-top: 15px;
+  margin-right: 20px;
 }
 
 .top-row ul {
@@ -16,14 +16,37 @@
 
 .top-row li {
   display: inline;
+  padding: 8px;
+  font-size: 14px;
+  font-family: arial, sans-serif;
+}
+
+.top-row img {
+  width: 18px;
+  height: 18px;
 }
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+.top-row form {
+  display: inline;
+}
+
+.top-row form input {
+  color: #FFFFFF;
+  background-color: #4486F9;
+  font-weight: bold;
+  border: none;
+  height: 32px;
+  width: 80px;
+  font-size: 14px;
 }
 
 #logo img {
@@ -38,7 +61,7 @@ a:hover {
   font-size: 18px;
   font-family: sans-serif;
   position: absolute;
-  top: 280px;
+  top: 295px;
   right: 790px;
 }
 
