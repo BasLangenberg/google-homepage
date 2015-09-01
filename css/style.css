@@ -26,6 +26,38 @@
   height: 18px;
 }
 
+.footer {
+  border-top: 1px solid #E4E4E4;
+  background-color: #F2F2F2;
+  margin-top: 438px;
+  height: 47px;
+  overflow: hidden;
+  background-color: #F2F2F2;
+}
+
+.footer li {
+  display: inline;
+  padding-right: 30px;
+}
+
+.footer div {
+  margin-top: 13px;
+}
+
+.footer a {
+  color: #666666;
+}
+
+#footer-right {
+  margin-right: 30px;
+  float: right;
+}
+
+#footer-left {
+  margin-left:30px;
+  float: left;
+}
+
 a {
   text-decoration: none;
   color: black;
